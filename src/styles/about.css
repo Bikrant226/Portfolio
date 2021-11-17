@@ -1,0 +1,15 @@
+.about-wrapper img{
+   width: 40%;
+   height: 40%;
+}
+
+
+
+
+.about-wrapper{
+    font-size: 50px;
+}
+
+.about-wrapper p b{
+    color: rgb(211,78,78);
+}

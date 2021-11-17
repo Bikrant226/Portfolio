@@ -1,0 +1,21 @@
+
+
+.work-wrapper .works{
+    display: flex;
+    border: 1px solid rgb(255,255,255);
+    border-radius: 20px;
+    flex-direction: column; 
+    float: left;
+    max-width: 350px;
+    margin: 35px;
+    padding: 10px;
+   box-shadow: 0 0 20px rgb(121, 120, 120);
+}
+
+
+
+.work-wrapper .works img{
+    
+    height: 300px;
+    width: auto;
+}
