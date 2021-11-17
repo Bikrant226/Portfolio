@@ -3,7 +3,7 @@ import '../styles/about.css';
 function About() {
     return (
         <div className="about-wrapper">
-            <img src="/assets/bittu.jpg" alt="my-photo" />
+            <img src="/assets/bittu.jpg" alt="anythin" />
             <p>
                 Hello, I'm <b>Bikrant Thakur</b>,
                 I grew up in small town in India.<br/>After I got my hands dirty with <b>C++</b> back in school,<br/>I developed
