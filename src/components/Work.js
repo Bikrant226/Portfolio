@@ -2,7 +2,6 @@ import React from 'react';
 import '../styles/work.css';
 import data from './Projects.json';
 function Work() {
-    console.log(data)
     return (
         <div className="work-wrapper">
             {data.map((e)=>(
