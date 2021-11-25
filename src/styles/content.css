@@ -1,5 +1,4 @@
 .content-wrapper{
-    border: 1px solid red;
     float: left;
     width: 700px;
     margin-right: 10px;
@@ -18,16 +17,15 @@
 }
 
 
-.content-wrapper .link{
+.content-wrapper .links{
     text-decoration: none;
-    border: 1px solid rgb(255,255,255);
-    background-color: rgb(158, 242, 167);
     border-radius: 50px;
-    color: rgb(0,0,0);
+    background-color: rgb(255,255,255);
+    color: rgb(211,78,78);
     padding: 10px;
     position: relative;
-    top: -40px;
-    font: bold 20px 'Roboto',sans-serif;
+    top: -40px;    
+    margin:100px;
 }
 img{
     box-sizing: border-box;

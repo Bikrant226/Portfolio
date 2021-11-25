@@ -1,57 +1,8 @@
 [
     {
         "id":1,
-        "title":"Demo 1",
-        "imgurl":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fa7%2FReact-icon.svg%2F2560px-React-icon.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&tbnid=TM5j047C88NTHM&vet=12ahUKEwjvqKGavJ_0AhUlktgFHTDRBpUQMygAegUIARC1AQ..i&docid=nfz2qKo0MFLwMM&w=2560&h=1809&itg=1&q=reac%20icon&client=ubuntu&ved=2ahUKEwjvqKGavJ_0AhUlktgFHTDRBpUQMygAegUIARC1AQ",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":2,
-        "title":"Demo 2",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":3,
-        "title":"Demo 3",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":4,
-        "title":"Demo 4",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":5,
-        "title":"Demo 5",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":6,
-        "title":"Demo 6",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":7,
-        "title":"Demo 7",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":8,
-        "title":"Demo 8",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
-    },
-
-    {
-        "id":9,
-        "title":"Demo 9",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam saepe placeat nostrum vel temporibus odio vero aut accusantium eos quod praesentium rerum consequatur libero, voluptates quae architecto autem obcaecati. Sed."
+        "title":"Be-a-bibliophile",
+        "description":"This is an ecommerce app built with MERN stack where users can buys their favourite books."
+    
     }
-  
 ]

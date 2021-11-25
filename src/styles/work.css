@@ -20,29 +20,30 @@
     width: auto;
 }
 
-@media only screen and (max-width:700px){
-    .work-wrapper{
-        margin-left: 25px;
-    }
+@media only screen and (max-width:480px){
+   
+
     .work-wrapper .works{
-        max-width: 175px;
-        font-size: 15px;
-        margin: 10px;
+        position: relative;
+        left: 20px;
+        width: 100%;
+        font-size: 10px;
         padding: 5px;
-        max-height: 300px;
+    
        
     }
+
     .work-wrapper .works h1{
-        margin-left:30px;
+        font-size: 20px;
     }
 
     .work-wrapper .works p{
-        display: none;
+        font-size: 15px;
     }
 
     .work-wrapper .works img{
     
-        height: 150px;
+        height: 250px;
         width: auto;
     }
 }

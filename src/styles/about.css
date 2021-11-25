@@ -8,15 +8,18 @@
 
 
 .about-wrapper{
-    font-size: 50px;
+    font-size: 30px;
 }
 
+.about-wrapper p{
+    padding-top: 20px;
+}
 .about-wrapper p b{
     color: rgb(211,78,78);
 }
 
 
-@media only screen and (max-width:700px){
+@media only screen and (max-width:480px){
     .about-wrapper{
         font-size:30px;
     }

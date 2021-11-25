@@ -6,9 +6,9 @@ function About() {
             <img src="/assets/bittu.jpg" alt="anythin" />
             <p>
                 Hello, I'm <b>Bikrant Thakur</b>,
-                I grew up in small town in India.<br/>After I got my hands dirty with <b>C++</b> back in school,<br/>I developed
-                my interest for <b>web development</b> when I started learning <b>javascript</b> in college and gave 
-                it a try and soon ventured into the world of web development....
+                I grew up <br/>in small town in India.<br/>After I got my hands dirty with <b>C++</b> back<br/> in school,I developed
+                my interest <br/> for <b>web development</b> when I started<br/> learning <b>javascript</b> in college <br/>and gave 
+                it a try and <br/> soon ventured into <br/>the world of web development.
             
             </p>
         </div>

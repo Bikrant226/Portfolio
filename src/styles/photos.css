@@ -1,0 +1,16 @@
+.photos-wrapper{
+    font-size: 20px;
+}
+
+.photos-wrapper .link{
+    text-decoration: none;
+    color: rgb(211, 78, 78);
+}
+
+
+.photos-wrapper img{
+    margin: 34px;
+}
+
+
+
