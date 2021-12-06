@@ -2,7 +2,16 @@
     {
         "id":1,
         "title":"Be-a-bibliophile",
-        "description":"This is an ecommerce app built with MERN stack where users can buys their favourite books."
+        "description":"This is an ecommerce app built with MERN stack where users can buys their favourite books.",
+        "urlToProject":"https://github.com/Bikrant226/be-a-bibliophile"
+    
+    },
+    {
+        "id":2,
+        "title":"Inshorts-clone",
+        "description":"An inshorts clone made using ReactJS.",
+        "urlToProject":"https://github.com/Bikrant226/inshorts"
     
     }
+    
 ]

@@ -19,7 +19,6 @@
 
 .content-wrapper .links{
     text-decoration: none;
-    border-radius: 50px;
     background-color: rgb(255,255,255);
     color: rgb(211,78,78);
     padding: 10px;
@@ -32,4 +31,24 @@ img{
     height: 600px;
     width: 600px;
     float: left;
+}
+
+@media  only screen and (max-width:480px) {    
+
+    .content-wrapper{
+        max-width: 500px;
+    }
+
+    .content-wrapper .links{
+       display: flex;
+       flex-direction: column;
+       position: relative;
+       left:70px;
+        width: 100px;
+    }
+    img{
+        width: 480px;
+        height: 480px;
+    }
+
 }

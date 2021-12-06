@@ -9,6 +9,7 @@ function Work() {
                     <img src="/assets/vc.jpg" alt="img" />
                     <h1>{e.title}</h1>     
                     <p>{e.description}</p> 
+                    <a href={e.urlToProject}>Visit github</a>
                 </div>
             ))}      
         </div>

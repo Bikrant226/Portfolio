@@ -12,7 +12,9 @@
    box-shadow: 0 0 20px rgb(121, 120, 120);
 }
 
-
+.work-wrapper .works a{
+    text-decoration: none;
+}
 
 .work-wrapper .works img{
     
